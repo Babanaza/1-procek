@@ -79,13 +79,21 @@ section.services i {
 /* PROJECTS */
 
 section.projects .card {
-    max-width: 17rem;
+    background-color: #fff;
+    width: 300px;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 10px 10px 40px #434040;
+    margin: auto;
+    margin-top: 65px;
+    max-width: 19rem;
     text-align: left;
 }
 
 section.projects .card img {
-    max-width: 70%;
+    max-width: 19rem;
     margin: 0 auto;
+    border-radius: 8px
 }
 
 
